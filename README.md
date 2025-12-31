@@ -31,3 +31,4 @@
 ### • Data Visualization Tool: Power BI 
 ### • Dataset: https://www.kaggle.com/datasets/mikhail1681/walmart-sales 
 
+<img width="1048" height="601" alt="dashboard" src="https://github.com/user-attachments/assets/1b915046-8bfe-48c6-884e-5169629999e4" />
