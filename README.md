@@ -19,7 +19,7 @@
 #### • Climate Trends: The "Sum of Temperature" peaks in July (50K) and hits its lowest points in January (14K) and December (18K).  
 #### • Temporal Scope: The data covers a three-year period spanning from 2010 to 2012.  
 
-### 📊 Visualizations
+## 📊 Visualizations
 
 #### The dashboard includes the following components:
 #### 1. Line Chart: Displays the "Sum of Temperature by Month" to track seasonal climate changes.  
